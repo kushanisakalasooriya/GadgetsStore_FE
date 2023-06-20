@@ -1,0 +1,31 @@
+
+
+  .hello{
+    text-align: center;
+  }
+  
+  .previous {
+    background-color: #f1f1f1;
+    color: black;
+  }
+  
+  .dshbrd{
+    text-align: center;
+  }
+  
+  .bkgrnduser{
+    height:85vh;
+  }
+  
+  .header{
+    padding-top: 20px;
+    margin-top: 70px;
+    font-weight: 700;
+    margin-left: 500px;
+  }
+  
+  .dshbtn{
+    height: 70px;
+    width: 250px;
+    border-radius: 30px;
+  }

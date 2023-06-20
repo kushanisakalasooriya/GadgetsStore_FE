@@ -1,0 +1,46 @@
+.kgEPYv {
+    font-size: 16px;
+  }
+
+.addBtn{
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.editbtn{
+
+}
+
+button, input, optgroup, select, textarea {
+  margin: 2px;
+}
+
+
+.sc-bjUoiL{
+  flex: 1 0 -moz-available;
+}
+
+.cEMZEX {
+  text-align: center;
+}
+
+.reportbtn{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+}
+
+.bkgrnd{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.backLink{
+  
+  text-decoration: none;
+  padding-top: 35px;
+  float: left;
+}

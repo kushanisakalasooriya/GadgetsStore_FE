@@ -1,0 +1,15 @@
+.card_image{
+    &:hover{
+        cursor: pointer;
+        transform: scale(1.2);
+    }
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    bottom: calc(100% - 300px);
+    transition: ease all .3s;
+}
+
+.imgbk{
+    border-radius: 10px;
+}
