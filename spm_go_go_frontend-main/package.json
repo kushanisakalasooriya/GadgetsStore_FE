@@ -13,7 +13,7 @@
     "@mui/icons-material": "^5.10.3",
     "@mui/material": "^5.10.3",
     "@mui/styled-engine": "^5.10.3",
-    "@mui/system": "^5.10.4",
+    "@mui/system": "^5.14.8",
     "@mui/utils": "^5.10.3",
     "@popperjs/core": "^2.11.5",
     "@testing-library/jest-dom": "^5.16.4",
