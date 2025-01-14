@@ -34,7 +34,7 @@
     "jsonpointer": "^5.0.1",
     "jspdf": "^2.5.1",
     "mdb-react-ui-kit": "^1.6.0",
-    "postcss": "^8.4.16",
+    "postcss": "^8.5.0",
     "qrcode": "^1.5.0",
     "react": "^16.8.6",
     "react-apexcharts": "^1.4.0",
