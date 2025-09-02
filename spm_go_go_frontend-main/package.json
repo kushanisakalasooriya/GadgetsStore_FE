@@ -32,7 +32,7 @@
     "gensync": "^1.0.0-beta.2",
     "jsesc": "^3.0.2",
     "jsonpointer": "^5.0.1",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.2",
     "mdb-react-ui-kit": "^1.6.0",
     "postcss": "^8.4.16",
     "qrcode": "^1.5.0",
